@@ -1,0 +1,48 @@
+
+html body{
+    background-color: #EEF4ED;
+}
+
+/*
+.imagen {
+    height: 120px;
+    margin-top: -60px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.container {
+    margin: 0;
+    margin-top: 20%;
+    padding: 0%;
+}
+
+.boton {
+    margin-bottom: 10px;
+}
+
+.formulario {
+    width: 80%;
+} */
+
+.navbar-dark {
+    background-color: #5E17EB;
+}
+
+.btn-custom {
+    background-color: #BFAB25;
+  }
+
+hr{
+    color: #14b524;
+    border: 4px solid #eba612;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: #5E17EB;
+}
+
